@@ -6,8 +6,5 @@
   "repository": "https://github.com/jnafolayan/huddle-landing-page",
   "author": "John Afolayan (https://jnafolayan.github.io)",
   "license": "MIT",
-  "private": true,
-  "devDependencies": {
-    "gulp": "^4.0.0"
-  }
+  "private": true
 }
