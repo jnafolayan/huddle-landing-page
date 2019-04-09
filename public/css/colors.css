@@ -1,0 +1,40 @@
+.primary {
+  background: hsl(322, 100%, 66%);
+}
+
+.secondary {
+  background: hsl(265, 100%, 66%);
+}
+
+.light {
+  background: hsl(214, 64%, 98%);
+}
+
+.grey {
+  background: hsl(208, 11%, 55%);
+}
+
+.dark {
+  background: hsl(192, 100%, 9%);
+}
+
+
+.text-primary {
+  color: hsl(322, 100%, 66%);
+}
+
+.text-secondary {
+  color: hsl(265, 100%, 66%);
+}
+
+.text-light {
+  color: hsl(214, 64%, 98%);
+}
+
+.text-grey {
+  color: hsl(208, 11%, 55%);
+}
+
+.text-dark {
+  color: hsl(192, 100%, 9%);
+}

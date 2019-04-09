@@ -1,0 +1,13 @@
+.decor--top {
+  position: absolute;
+  background: linear-gradient(hsl(322, 100%, 66%), hsl(265, 100%, 66%));
+  width: 800px;
+  max-width: 70vw;
+  height: 1200px;
+  top: -20vw;
+  right: 0;
+  transform: rotate(-40deg);
+  transform-origin: center 10%;
+  z-index: -1;
+  border-radius: 50px;
+}
